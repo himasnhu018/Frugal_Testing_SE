@@ -5,7 +5,7 @@
 ## 🌟 Project Preview
 
 ### 🖼️ Landing Page
-![Landing Page](C:\Users\LENOVO\Desktop\Frugal_Testing_SE\Frugal_Testing_SE-main\quiz_project\automation\automation\resources\screenshots\01_landing.png)
+![Landing Page](Frugal_Testing_SE-main/quiz_project/automation/automation/resources/screenshots/01_landing.png)
 
 ### 🖼️ Question Page
 ![Question Page](automation\automation\resources\screenshots\03_q3_selected.png)
