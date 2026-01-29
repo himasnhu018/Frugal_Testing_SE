@@ -8,10 +8,10 @@
 ![Landing Page](Frugal_Testing_SE-main/quiz_project/automation/automation/resources/screenshots/01_landing.png)
 
 ### 🖼️ Question Page
-![Question Page](automation\automation\resources\screenshots\03_q3_selected.png)
+![Question Page](Frugal_Testing_SE-main/quiz_project/automation/automation/resources/screenshots/03_q10_selected.png)
 
 ### 🖼️ Result Analysis Page
-![Result Page](automation\automation\resources\screenshots\04_results.png)
+![Result Page](Frugal_Testing_SE-main/quiz_project/automation/automation/resources/screenshots/04_results.png)
 
 
 
